@@ -107,7 +107,7 @@ h6 {
 }
 
 h5, h6 {
-  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Arial, Helvetica;
 }
 
 h2, h3, h4, h5, h6 {
@@ -286,7 +286,7 @@ var > var::after {
 
 .example {
   color: #555;
-  font-style: italic;
+  font-style: bold;
 }
 
 .XXX {
@@ -477,7 +477,7 @@ html:not(.index) ol.toc ol {
 
 #about-dev-edition {
   margin: 1.5em 0 1em 0;
-  font-size: 34px;
+  font-size: 45px;
 }
 
 /* RESPONSIVE STYLES */
@@ -546,7 +546,7 @@ html:not(.index) ol.toc ol {
   #search input,
   #search ol {
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
   }
 
   #search ol {
